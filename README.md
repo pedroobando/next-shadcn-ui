@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ui.shadcn.com/" target="blank"><img src="https://github.com/pedroobando/next-shadcn-ui/blob/main/public/shadcn-ui.png" width="500" alt="logo" /></a>
+  <a href="https://ui.shadcn.com/" target="blank"><img src="https://github.com/pedroobando/next-shadcn-ui/blob/main/public/shadcn-ui.png" width="80%" alt="logo" /></a>
 </p>
 
 # Shadcn/ui
