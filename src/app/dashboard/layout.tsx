@@ -23,6 +23,7 @@ const links = [
   { name: 'menu bar', href: 'menu-bar' },
   { name: 'input OTP', href: 'input-otp' },
   { name: 'progress', href: 'progress' },
+  { name: 'sheet', href: 'sheet' },
 ].sort((a, b) => a.name.localeCompare(b.name));
 
 export default function DashboardLayout({ children }: { children: ReactNode }) {
